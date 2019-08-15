@@ -1,0 +1,11 @@
+name: ndt7_client_dartweb
+description: ndt7 client written in dart-web
+version: 0.0.1
+homepage: https://github.com/m-lab/ndt7-client-dartweb
+author: Simone Basso <bassosimone@gmail.com>
+environment:
+  sdk: '>=2.4.0 <3.0.0'
+dev_dependencies:
+  build_runner: ^1.5.0
+  build_web_compilers: ^2.1.0
+  pedantic: ^1.7.0
